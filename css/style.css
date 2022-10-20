@@ -11,7 +11,7 @@
 }
 body {
     height: 100%;
-    background: var(--violet) url('https://raw.githubusercontent.com/Chrisesbueno/huddle-landing-page/db01886db0a7b2c2ea7a620e13e527b8df71dbfd/assets/images/bg-mobile.svg') no-repeat;
+    background: var(--violet) url(https://raw.githubusercontent.com/Chrisesbueno/huddle-landing-page/db01886db0a7b2c2ea7a620e13e527b8df71dbfd/assets/images/bg-mobile.svg) no-repeat;
     background-size: 100% 70vh;
     display: grid;
     place-items: center;
@@ -101,7 +101,7 @@ header {
         align-items: center;
         justify-content: center;
         position: relative;
-        background: var(--violet) url('https://raw.githubusercontent.com/Chrisesbueno/huddle-landing-page/db01886db0a7b2c2ea7a620e13e527b8df71dbfd/assets/images/bg-desktop.svg') no-repeat;
+        background: var(--violet) url(https://raw.githubusercontent.com/Chrisesbueno/huddle-landing-page/db01886db0a7b2c2ea7a620e13e527b8df71dbfd/assets/images/bg-desktop.svg) no-repeat;
         background-size: 100vw 100vh;
     }
     .container, header, footer {
